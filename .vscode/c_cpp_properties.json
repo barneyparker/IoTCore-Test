@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/barney/Arduino/libraries/MQTT/src",
+                "/home/barney/Arduino/hardware/espressif/esp32/**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu18",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
