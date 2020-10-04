@@ -1,2 +1,4 @@
 ArduinoOutput/
 esp32/secrets.h
+**/.terraform/
+**/*.tfstate*
